@@ -5,7 +5,7 @@
 🌍 **GMT+4**  
 📱 **+995 555 590 156**  
 📧 [erikgevondyan.work@gmail.com](mailto:erikgevondyan.work@gmail.com)  
-🌐 [LinkedIn](https://linkedin.com/in/erikgevondyan) | [GitHub](https://github.com/gevondyanerik) | [WhatsApp](https://wa.me/995555590156) | [Telegram](https://t.me/erikgevondyan_work)
+🌐 [LinkedIn](https://linkedin.com/in/erikgevondyan) | [WhatsApp](https://wa.me/995555590156) | [Telegram](https://t.me/erikgevondyan_work)
 
 ---
 
