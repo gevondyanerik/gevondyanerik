@@ -60,7 +60,7 @@ Experienced Data Scientist with 5 years of commercial work in teams of 2 to 20 m
 ---
 
 ### **Halbestunde GmbH (2 years 1 month) | Jan 2020 – Feb 2022**
-- Continuous improvement of models quality helped the company raise $10+ million in investments during my tenure.
+- Continuous improvement of models quality helped the company raise $1.5+ million in investments during my tenure.
 - Expanded the inference pipeline from a 1 neural network to a cascade of 3 models.
 - Improved the main pipeline metric (PitchAccuracy) from 63% to 84%.
 
