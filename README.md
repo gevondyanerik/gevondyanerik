@@ -3,9 +3,9 @@
 **Data Scientist, 5+ years of experience**
 
 🌍 **GMT+4**  
-📱 **+995 555 590 156**  
+📱 **+6281225211830**  
 📧 [erikgevondyan.work@gmail.com](mailto:erikgevondyan.work@gmail.com)  
-🌐 [LinkedIn](https://linkedin.com/in/erikgevondyan) | [WhatsApp](https://wa.me/995555590156) | [Telegram](https://t.me/erikgevondyan_work)
+🌐 [LinkedIn](https://linkedin.com/in/erikgevondyan) | [WhatsApp](https://wa.me/6281225211830) | [Telegram](https://t.me/erikgevondyan_work)
 
 ---
 
