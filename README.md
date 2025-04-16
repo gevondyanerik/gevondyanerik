@@ -45,8 +45,6 @@ Experienced Data Scientist with 5 years of commercial work in teams of 2 to 20 m
 - Led and assigned tasks to a team of 2 data scientists.
 - Hired 4 senior data scientists, conducted 20+ interviews.
 
-**Skills:** Python, CatBoost, XGBoost, LightGBM, Pandas, NumPy, Matplotlib, Scikit-learn, PostgreSQL, MSSQL, MLflow, Docker, Linux, Bash.
-
 ---
 
 ### **EPAM Systems (2 years) | Feb 2022 – Jan 2024**
@@ -54,8 +52,7 @@ Experienced Data Scientist with 5 years of commercial work in teams of 2 to 20 m
 - Reduced average insurance claim processing time from 7 days to 1.5 hour.
 - Leveraged OCR and LLM to achieve 100% automation in the completion of electronic documents.
 - Developed an LLM chatbot that enabled the company to reduce its support staff by over 40%.
-
-**Skills:** Python, PyTorch, TensorFlow, MMLib, Hugging Face, NLTK, FAISS, Elasticsearch, Hadoop, Hive, PySpark, CatBoost, XGBoost, LightGBM, Pandas, NumPy, Matplotlib, Scikit-learn.
+- Improved marketing ROI by 15\% by developing a machine learning model to predict LTV.
 
 ---
 
@@ -63,8 +60,6 @@ Experienced Data Scientist with 5 years of commercial work in teams of 2 to 20 m
 - Continuous improvement of models quality helped the company raise $1.5+ million in investments during my tenure.
 - Expanded the inference pipeline from a 1 neural network to a cascade of 3 models.
 - Improved the main pipeline metric (PitchAccuracy) from 63% to 84%.
-
-**Skills:** Python, PyTorch, TensorFlow, MMLib, Hugging Face, OpenCV, AWS, GCP, Linux, Ubuntu, Docker, Airflow, Pandas, NumPy, Matplotlib.
 
 ---
 
